@@ -2,4 +2,8 @@ Question 1 : Print the number in reverse order using recursion.
 Question 2 : Print Name 5 times.
 Question 3 : Print linearly from 1 to N.
 Question 4 : Print from N to 1.
-Question 5 :
+Question 5 : Submission of first N numbers. //Have to correct it.
+Question 6 : Submission of first N numbers.
+Question 7 : Factorial of first N numbers.
+Question 8 : Reverse an array.
+Question 9 : Check if a string is palindrome or not.
